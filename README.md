@@ -15,4 +15,4 @@ full-text search, LLM-powered compiler, all over MCP. No database required.
 
 ### 📊 GitHub activity
 
-![Jieke's GitHub stats](https://github-readme-stats.vercel.app/api?username=panjieke&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight)
+![Jieke's GitHub stats](https://github-readme-stats.vercel.app/api?username=panjieke&show_icons=true&count_private=false&theme=tokyonight)
