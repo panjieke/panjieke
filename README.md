@@ -1,6 +1,6 @@
 ## Hi, I'm Jieke 👋
 
-CTO at <a href="https://www.synpulse.com" target="_blank">Synpulse</a> & <a href="https://www.synpulse8.com" target="_blank">Synpulse8</a>, building **PULSE8.AI** —
+CTO at [Synpulse](https://www.synpulse.com) & [Synpulse8](https://www.synpulse8.com), building **PULSE8.AI** —
 a modular agentic AI platform for financial services.
 
 ### 🛠 Currently building in the open
